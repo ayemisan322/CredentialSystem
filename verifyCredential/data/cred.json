@@ -1,0 +1,46 @@
+{
+  "data": {
+    "id": "364999b4-486d-443e-96b8-3aae3eb16794:string:53b75bbe",
+    "name": "ece7899c-2060-4a90-8afe-1b0305f7651a:string:Govtech Demo Certificate",
+    "description": "3dc72e61-2ce4-4e44-90ce-9e4ea5e3e109:string:Govtech Demo Certificate",
+    "issuedOn": "8bf78a87-67a8-43c2-91ca-f25051b4898d:string:2019-05-29T00:00:00+08:00",
+    "admissionDate": "a8e53a7a-01ec-4b36-9cb3-a15d7e655d78:string:2017-08-01T00:00:00+08:00",
+    "graduationDate": "ced7652e-ece9-4319-9393-478004525ed0:string:2022-08-01T00:00:00+08:00",
+    "lengthofProgram": "3e45652e-ece9-4319-9393-478004525ed0:string:4",
+    "issuers": [
+      {
+        "name": "996ac57b-db78-459c-b77a-3eaef5df4504:string:Govtech",
+        "url": "23ef3d1b-09e0-41b6-84b4-b99c10605c06:string:https://tech.gov.sg",
+        "address": "cbcb5069-43ed-4b55-ab46-91ec8f9432e7:string:2MuVNbvxJFG9JNdQykj8PjJtaktLquiU4Zx"
+      }
+    ],
+    "recipient": {
+      "name": "c4ac4a20-27ad-403e-bf4c-1d85ccc099c2:string:Your Name",
+      "nric": "2f30a86d-b2e2-4e9c-97d6-4ae76efd0376:string:SXXXXXXXY",
+      "studentId": "dd99a0c8-2821-45fc-9130-14bf84313068:string:123456",
+      "dateofBirth": "79c62487-9462-45a4-bfb2-f0ed2b48d53c:string:1994-03-22",
+      "sex": "3d56652e-ece9-4319-9393-478004525ed0:string:Male"
+    }
+  },
+  "privacy": {
+    "option": {
+      "optionRoot": "1a80ce65db0190db14bbd2fbb201a6404f9d5c0c6d24700e2660c75a245846ce"
+    }
+  },
+  "signature": {
+    "type": [
+      "MerkleProof2017",
+      "Extension"
+    ],
+    "merkleRoot": "d39d2c23a1cff616eb710b14d37269036b4f94d075da8696112dc3339182a6f5",
+    "targetHash": "d39d2c23a1cff616eb710b14d37269036b4f94d075da8696112dc3339182a6f5",
+    "proof": [],
+    "anchors": [
+      {
+        "sourceId": "1e307380b362f0099462b32bcccc9c0dd354119d86ffe4ca7b5e2990287c0d59",
+        "type": "BTCOpReturn",
+        "chain": "regtest"
+      }
+    ]
+  }
+}
